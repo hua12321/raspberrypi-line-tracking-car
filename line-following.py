@@ -58,7 +58,7 @@ MAX_SPEED = 60
 MIN_SPEED = 20
 TURN_SPEED = 50
 TURN_THRESHOLD = 50
-Kp, Ki, Kd =0.5, 0.01, 0.2
+Kp, Ki, Kd =70, 0.01, 0.2
 prev_error, integral = 0.0, 0.0
 
 # HSV Color Ranges
