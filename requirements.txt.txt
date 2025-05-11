@@ -1,0 +1,4 @@
+opencv-python>=4.5.1
+numpy>=1.19.5
+RPi.GPIO>=0.7.0
+picamera2>=0.0.3
