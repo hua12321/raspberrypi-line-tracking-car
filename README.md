@@ -347,7 +347,18 @@ Danielle Lim Ern Hui
 Hua Jia Cheng
 
 
+
 References
+
+
+
+
+
+Project Poster: "Raspberry Pi 4 Powered Automated Line Following Vehicle"
+
+
+
+Project Code: line-following-car.py
 
 
 
